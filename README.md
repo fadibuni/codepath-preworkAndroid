@@ -2,9 +2,9 @@ Hello World App - Pre-work
 This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile App Development course.
 
 Required Features
-[x]User sees custom text in a label - Hello from {name}!
-[x]User see custom background color.
-[x]User can tap a button to change the text color of the label.
+[X] User sees custom text in a label - Hello from {name}!
+[X] User see custom background color.
+[X] User can tap a button to change the text color of the label.
 
 Optional Features
 User can tap a button to change the color of the background view.
