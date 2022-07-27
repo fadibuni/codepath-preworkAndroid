@@ -5,14 +5,7 @@ This app greets people with my name and changes buttom color
 
 ### App Walk-though
 
-
-
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-
-
-<img src="https://gfycat.com/safebelovedabyssiniangroundhornbill.gif" width=200><br>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/100886113/181144309-32d39754-1051-498b-ae15-7b60437c2f05.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
